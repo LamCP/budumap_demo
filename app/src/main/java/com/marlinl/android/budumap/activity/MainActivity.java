@@ -11,6 +11,13 @@ import com.baidu.trace.OnStartTraceListener;
 import com.baidu.trace.OnStopTraceListener;
 import com.baidu.trace.Trace;
 import com.marlinl.android.budumap.R;
+import com.baidu.trace.LBSTraceClient;
+import com.baidu.trace.OnStartTraceListener;
+import com.baidu.trace.OnStopTraceListener;
+import com.baidu.trace.OnTrackListener;
+import com.baidu.trace.Trace;
+import com.baidu.trace.OnGeoFenceListener;
+import com.baidu.trace.OnEntityListener;
 
 /**
  * Created by MarlinL on 1/23/16.
